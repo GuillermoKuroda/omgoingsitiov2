@@ -1,0 +1,39 @@
+[33mcommit 5949051b8ae776c5bae0b249db2036489e78ea6c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Reflog: HEAD@{0} (Guille <gak3200u@gmail.com>)
+Reflog message: reset: moving to 5949051
+Author: Guillermo Kuroda <gkuroda@tmhargentina.com>
+Date:   Wed Jun 15 01:58:13 2022 -0300
+
+    1ra version
+
+[33mcommit e5a76f4687adab13c656f286c0dbe1a06e8e86ff[m[33m ([m[1;31morigin/main[m[33m)[m
+Reflog: HEAD@{1} (Guillermo Kuroda <gkuroda@tmhargentina.com>)
+Reflog message: commit: Test
+Author: Guillermo Kuroda <gkuroda@tmhargentina.com>
+Date:   Wed Jun 15 02:56:35 2022 -0300
+
+    Test
+
+[33mcommit 58af8f1dbc083335e1d1ed594fb7285bb770219b[m
+Reflog: HEAD@{2} (Guillermo Kuroda <gkuroda@tmhargentina.com>)
+Reflog message: commit: test
+Author: Guillermo Kuroda <gkuroda@tmhargentina.com>
+Date:   Wed Jun 15 02:28:35 2022 -0300
+
+    test
+
+[33mcommit 5949051b8ae776c5bae0b249db2036489e78ea6c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Reflog: HEAD@{3} (Guillermo Kuroda <gkuroda@tmhargentina.com>)
+Reflog message: Branch: renamed refs/heads/master to refs/heads/main
+Author: Guillermo Kuroda <gkuroda@tmhargentina.com>
+Date:   Wed Jun 15 01:58:13 2022 -0300
+
+    1ra version
+
+[33mcommit 5949051b8ae776c5bae0b249db2036489e78ea6c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Reflog: HEAD@{5} (Guillermo Kuroda <gkuroda@tmhargentina.com>)
+Reflog message: commit (initial): 1ra version
+Author: Guillermo Kuroda <gkuroda@tmhargentina.com>
+Date:   Wed Jun 15 01:58:13 2022 -0300
+
+    1ra version
